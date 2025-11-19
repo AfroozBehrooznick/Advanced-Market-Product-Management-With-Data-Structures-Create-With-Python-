@@ -1,5 +1,5 @@
 📌 Advanced Market Product Management Using Data Structures (Python)
-"University Project – Data Structures"
+"University Project – Data Structures Cource"
 
 📘 This project is an advanced product management system implemented in Python, designed for a university Data Structures course.
 The system manages market products and performs operations such as:
@@ -82,4 +82,3 @@ Performing an inorder traversal to get sorted data
 Returning the median value
 
 📝 "Afrooz behrooznick"
-"Data Structures Course"
