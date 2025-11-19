@@ -56,7 +56,7 @@ Fast insertion
 Fast alphabetical search
 Fast deletion
 
-2. PriceBST (sorted by product price)
+(2) PriceBST (sorted by product price)
    Used for:
    Sorted output (smallest → biggest)
    Reverse sorted output
