@@ -1,6 +1,6 @@
 📌 Advanced Market Product Management Using Data Structures (Python)
 "University Project – Data Structures"
-
+</hr>
 📘 This project is an advanced product management system implemented in Python, designed for a university Data Structures course.
 The system manages market products and performs operations such as:
 
