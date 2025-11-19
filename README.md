@@ -1,5 +1,5 @@
-📌 Advanced Market Product Management Using Data Structures (Python)
-University Project – Data Structures
+📌 Advanced Market Product Management Using Data Structures In Python
+(University Project – Data Structures Course)
 
 📘 This project is an advanced product management system implemented in Python, designed for a university Data Structures course.
 The system manages market products and performs operations such as:
@@ -56,12 +56,12 @@ Fast insertion
 Fast alphabetical search
 Fast deletion
 
-2. PriceBST (sorted by product price)
-   Used for:
-   Sorted output (smallest → biggest)
-   Reverse sorted output
-   Searching price
-   Returning products in a price range
+(2) PriceBST (sorted by product price)
+Used for:
+Sorted output (smallest → biggest)
+Reverse sorted output
+Searching price
+Returning products in a price range
 
 3. Additional Structures
    Node class for Linked List
@@ -81,5 +81,6 @@ Building a BST from the list
 Performing an inorder traversal to get sorted data
 Returning the median value
 
-📝 Afrooz behrooznick
-Data Structures Course
+📑For more details ,You can read Market.pdt which is written in Persian.
+
+🖋️ Built by "Afrooz behrooznick"
